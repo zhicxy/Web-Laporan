@@ -1,0 +1,77 @@
+body{
+    background-color: #E6E9F0;
+}
+
+
+.navbar{
+    height: 100px;
+    background-color:  #14A2BA !important;
+}
+
+.hero-image{
+    height: 400px;
+    background: url("https://images.hdqwalls.com/download/internet-technology-hg-3840x2160.jpg");
+    
+}
+
+.container{
+    position: relative;
+    top: -100px;
+    height: 74rem;
+    width: 50rem;
+    background-color: white;
+    border-radius: 2rem;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 34px;
+}
+
+.category{
+    height: 150px;
+    padding-top: 80px;
+}
+
+.btn-group{
+    height: 3.5em;
+    width: 40em;
+    border-radius: 100px !important;
+    font-size: 1.2rem;
+}
+
+
+.btn-rounded{
+    color: white;
+    background-color: #353C44;
+    border-color: black;
+    border-radius: 200px !important;
+    height: 60px;
+    width: 250px;
+    margin: 0.3rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.inquiry{
+    margin: 3rem;
+}
+
+.input-group{
+    margin-top: 10px;
+}
+.load{
+    margin-top: 3rem;
+}
+
+.btn-copy{
+    margin-top: 30px;
+    height: 4.5rem;
+    font-size: 1.5rem;
+    background-color: #14A2BA;
+    border-color: #14A2BA;
+}
+
+.btn-copy:hover{
+    background-color: #16B6D1;
+    color: white;
+}
+
+.date{
+    margin-top: 20px;
+}
