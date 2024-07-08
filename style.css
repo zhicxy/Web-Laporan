@@ -1,0 +1,13 @@
+body{
+    background : url("https://img.freepik.com/free-photo/yellow-cardboard-papers-corner-blue-backdrop_23-2147878426.jpg?t=st=1720417196~exp=1720420796~hmac=32a286399337f58901d63ca19ad25f0d45c10da2818c68d5d37b020e5b4670a4&w=1380");
+    background-size: auto ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    padding: 30px;
+    margin-top:20px;
+    background-color: aqua;
+    border-radius: 15px;
+}
